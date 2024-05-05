@@ -1,1 +1,3 @@
-# CSS-Zen-Garden---Pseudo-Classes
+Exercicio Pseudo Classes
+
+Parte inferior do codigo
